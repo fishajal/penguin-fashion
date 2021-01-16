@@ -1,0 +1,25 @@
+body {
+    font-family: 'Abel', sans-serif;
+}
+.resize-image img {
+    height: 40px;
+    width: 40px;
+    margin-right: 14px;
+}
+.resize-image>div>h4 {
+    padding-top: 5px;
+    font-size: 13px;
+}
+.resize-image>div>p {
+    font-size: 8px;
+}
+.resize-image {
+    height: 70px;
+    width: 300px;
+}
+.image-background img{ /* Applying style to images of card*/
+    width: 200px;
+    height: 200px;   
+    background-color: antiquewhite;
+
+}
