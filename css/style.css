@@ -33,10 +33,10 @@ body {
 
 }
 .nav-margin {
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 300px;
+    margin-left: 300px;
 }
 .nav-margin li {
-    margin-right: 25px;
-    margin-left: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
